@@ -82,7 +82,7 @@ Explore test philosophy: docs/What_is_ECE.md
 
 Understand definitions: docs/Working_definitions.md
 
-Try the Frostfire demo run for inspiration: runs/frostfire/
+Try the Frostfire demo run for inspiration: examples/frostfire_hollow
 
 
 
