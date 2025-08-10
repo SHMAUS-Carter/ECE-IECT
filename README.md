@@ -21,7 +21,7 @@ Relevant ECE axioms:
 
 ---
 ## Quick start
-see `quickstart.md` for details
+see `quick_start.md` for details
 ## Methodology
 - Categories: Contradictions / Paradoxes / Semantic Mashups
 - Iteration protocol: self-revision toward internal consistency; optional constraints
