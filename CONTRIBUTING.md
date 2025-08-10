@@ -1,7 +1,7 @@
 # Contributing to IECT
 
 ## How to Add a Run
-1. Use `kit/iect_manual_logger.py` (or your own tooling).
+1. Use `logger.py` (or your own tooling).
 2. Commit:
    - A Markdown log: `results/IECT_Run_<ID>.md`
    - Append your row to `results/metrics_log_example.csv` (or include new CSV `results/metrics_log_<date>.csv`)
