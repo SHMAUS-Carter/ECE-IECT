@@ -47,3 +47,9 @@ This project originated from the author’s core question:
 
 ### Authorship & Credit
 LLM contributed without awareness or intent. The human author retains full responsibility for claims and implications.
+
+## References
+
+Youvan, D. C. (2025). *Becoming the algorithm: Epistemological implications of emergent truth in AI topoi*. https://doi.org/10.13140/RG.2.2.18940.46723
+
+James Kendall (2025). *The Iterative Emergent Coherence Test (IECT): A Proof-of-Concept Methodology for Studying Non-Human Epistemes in Large Language Models* https://github.com/SHMAUS-Carter/ECE-IECT/
