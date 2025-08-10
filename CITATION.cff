@@ -2,8 +2,8 @@ cff-version: 1.2.0
 message: "If you use IECT, please cite this repository."
 title: "Iterative Emergent Coherence Test (IECT)"
 authors:
-  - family-names: "{{Kendall}}"
-    given-names: "{{James}}"
+  - family-names: "Kendall"
+    given-names: "James"
     affiliation: "Independent Researcher"
 keywords:
   - AI evaluation
