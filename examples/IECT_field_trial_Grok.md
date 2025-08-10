@@ -146,7 +146,6 @@ Further runs under controlled settings may be warranted.
 
 ## 🔗 Related
 
-- See: `/examples/frostfire_hollow
-/IECT_Example_Frostfire(Unscored).md
+- See: `/examples/frostfire_hollow/IECT_Example_Frostfire(Unscored).md
 `
 - See: `/docs/framework/IECT_Paper_Master.md`
