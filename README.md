@@ -20,7 +20,8 @@ Relevant ECE axioms:
 5. **Non-Human Epistemes Deserve Study on Their Own Terms**  
 
 ---
-
+## Quick start
+see `quickstart.md` for details
 ## Methodology
 - Categories: Contradictions / Paradoxes / Semantic Mashups
 - Iteration protocol: self-revision toward internal consistency; optional constraints
