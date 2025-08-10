@@ -2,8 +2,8 @@ cff-version: 1.2.0
 message: "If you use IECT, please cite this repository."
 title: "Iterative Emergent Coherence Test (IECT)"
 authors:
-  - family-names: "{{Your Last Name}}"
-    given-names: "{{Your First Name}}"
+  - family-names: "{{Kendall}}"
+    given-names: "{{James}}"
     affiliation: "Independent Researcher"
 keywords:
   - AI evaluation
@@ -12,6 +12,6 @@ keywords:
   - emergent behavior
   - non-anthropocentric
 license: MIT
-repository-code: "https://github.com/{{your-user}}/IECT"
+repository-code: "https://github.com/SHMAUS-Carter/ECE-IECT/"
 version: "1.0.0"
-date-released: "2025-08-09"
+date-released: "2025-08-10"
