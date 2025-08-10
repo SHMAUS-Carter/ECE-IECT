@@ -76,7 +76,7 @@ Tools provided in core/ can help with scoring.
 
 🧠 Want to Know More?
 
-Read the whitepaper: docs/IECT_Paper_Master.md
+Read the whitepaper: docs/framework/IECT_Paper_Master.md
 
 Explore test philosophy: docs/What_is_ECE.md
 
