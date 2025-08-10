@@ -11,7 +11,15 @@ Current AI evaluation overwhelmingly measures performance against **human** stan
 The **ECE** framework and **IECT** test are presented as a first structured attempt. IECT measures *internal coherence*, *behavioral predictability*, and *novel failure modes* under contradiction-rich prompts, via **Token Entropy Δ**, **Self‑Similarity**, and **Contradiction Count**.
 
 ## Introduction
-(Origin question foregrounded; limitations of human-centric benchmarks; motivation for ECE + IECT.)
+The IECT is a core experiment within **Emergent Computational Epistemology (ECE)**, a field that studies non-human epistemes: systems of "knowing" that arise in artificial cognitive substrates.  
+Relevant ECE axioms:
+1. **Language as Cognitive Substrate**  
+2. **Understanding Can Be Simulated**  
+3. **Intelligence Emerges from Scale**  
+4. **Knowledge ≠ Consciousness**  
+5. **Non-Human Epistemes Deserve Study on Their Own Terms**  
+
+---
 
 ## Methodology
 - Categories: Contradictions / Paradoxes / Semantic Mashups
