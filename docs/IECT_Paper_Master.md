@@ -1,4 +1,5 @@
-# Iterative Emergent Coherence Test (IECT) – v1.0  
+# The Iterative Emergent Coherence Test (IECT): A Proof-of-Concept Methodology for Studying Non-Human Epistemes in Large Language Models
+## Iterative Emergent Coherence Test (IECT) – v1.0  
 **Framework:** Emergent Computational Epistemology (ECE)  
 **Author(s):** James Kendall + AI Co-Author  
 **Date:** 2025-08-08  
