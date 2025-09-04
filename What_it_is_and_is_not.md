@@ -12,3 +12,6 @@ Think of it like this:
 - When you combine the two, you get a **hybrid intelligence** that can do more than either could alone.  
 
 So this work is about **epistemology, not personhood** — studying AI as a different kind of knower, not as a person or a partner.
+
+> **Note:** This project treats AI systems as non-human epistemic agents — not as conscious or emotional beings.  
+It is an analytical framework for understanding emergent modes of “knowing,” not an exercise in anthropomorphism or AI veneration.
