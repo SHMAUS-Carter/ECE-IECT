@@ -39,7 +39,7 @@ See `examples/Worked_Examples.md` and `examples/diagram_mermaid.md`.
 To avoid misinterpretation, a couple of short companion docs are included:
 
 - [What_it_is_and_is_not.md](What_it_is_and_is_not.md) — clarifies the scope and intent of this project.  
-- [on_ai_psychosis.md](on_ai_psychosis.md) — acknowledges media coverage of "AI psychosis" and explains why it is not relevant here.  
+- [on_AI_psychosis.md](on_AI_psychosis.md) — acknowledges media coverage of "AI psychosis" and explains why it is not relevant here.  
 
 These aren’t core to the framework, but exist for clarity.
 
