@@ -28,7 +28,12 @@ Relevant ECE axioms:
 
 ---
 ## Quick start
-see `quick_start.md` for details
+The IECT can be run with a simple contradiction-rich prompt set and an iterative 
+revision loop. Responses are measured for coherence using entropy, self-similarity, 
+and contradiction counts.  
+
+See [quick_start.md](quick_start.md) for full setup instructions.
+
 ## Methodology
 - Categories: Contradictions / Paradoxes / Semantic Mashups
 - Iteration protocol: self-revision toward internal consistency; optional constraints
