@@ -33,6 +33,7 @@ See `examples/Worked_Examples.md` and `examples/diagram_mermaid.md`.
 
 ## Discussion
 (Feasibility, insights, limitations, future work.)
+For limitations and future directions, see [Limitations.md](Limitations.md).
 
 ## Context Notes
 
