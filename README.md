@@ -43,6 +43,7 @@ To avoid misinterpretation, a couple of short companion docs are included:
 
 - [What_it_is_and_is_not.md](What_it_is_and_is_not.md) — clarifies the scope and intent of this project.  
 - [on_AI_psychosis.md](on_AI_psychosis.md) — acknowledges media coverage of "AI psychosis" and explains why it is not relevant here.  
+- [Cybernetics_vs_ECE.md](context/Cybernetics_vs_ECE.md) — situates ECE historically as an echo of cybernetics, but highlights the key difference: today we have real AI testbeds for epistemic study.
 
 These aren’t core to the framework, but exist for clarity.
 
