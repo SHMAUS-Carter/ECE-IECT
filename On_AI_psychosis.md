@@ -1,20 +1,12 @@
-### On "AI Psychosis"
+# On "AI Psychosis"
 
-Recent news has described cases of so-called "AI psychosis," where individuals 
-develop delusional or dependent relationships with chatbots. These cases usually 
-involve anthropomorphization — treating AI as if it were a friend, partner, or 
-divine being — and highlight the risks of dependency when systems are mistaken 
-for conscious or emotional agents.
+Media outlets and some clinicians have begun using the term *AI psychosis* (or *chatbot psychosis*) to describe cases where people form delusional, dependent, or obsessive relationships with chatbots. These often involve anthropomorphization — treating AI as a partner, deity, or conspirator — and can reinforce pre-existing mental health vulnerabilities.
 
-This project takes the opposite stance.  
-- **Not dependency**: ECE does not treat AI as a partner or therapist.  
-- **Not personhood**: AI here is never assumed to be conscious, sentient, or emotional.  
-- **Not anthropomorphism**: ECE is an epistemological framework, not a projection of humanity onto machines.  
+This project is **not part of that discourse**.  
+- It does **not** treat AI as conscious, sentient, or emotional.  
+- It does **not** explore AI as a partner or therapeutic substitute.  
+- It does **not** depend on anthropomorphic framing.  
 
-Instead, the aim is to study AI as a **non-human epistemic entity**:  
-a finite system of "knowing" whose behaviors can be analyzed in terms of coherence, 
-contradiction, and emergent structure. This approach positions AI as part of a 
-broader **knowledge ecosystem**, distinct from human cognition but worth studying 
-on its own terms.
+Emergent Computational Epistemology (ECE) approaches AI as a **non-human epistemic entity**: a finite system of "knowing" whose behaviors can be studied through coherence, contradiction, and emergent structure. The focus here is on **epistemology, not psychology**.
 
-In short: **ECE is about epistemology, not AI psychosis.**
+In short: *AI psychosis exists as a social phenomenon, but it is not relevant to the aims or methods of this project.*
