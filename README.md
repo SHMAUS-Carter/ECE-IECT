@@ -3,6 +3,7 @@ title: "The Iterative Emergent Coherence Test (IECT): A Proof-of-Concept Methodo
 author: "James Kendall — Independent Researcher"
 date: "2025-08-09"
 ---
+# Emergent Computational Epistemology (ECE) studies the emergent behaviors of machine learning systems as non-human epistemic entities.
 
 ## Abstract
 Current AI evaluation overwhelmingly measures performance against **human** standards—mimicry, factual accuracy, or preference alignment.  
