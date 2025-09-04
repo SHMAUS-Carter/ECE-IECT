@@ -13,4 +13,4 @@
 
 ### Notes
 This is an example of a **guardrail artifact** — the model’s refusal was not due to capacity limits but to safety conditioning.  
-For comparison, see [Frostfire Hollow](../examples/frostfire_hollow/frostfire_hollow_run.md), where an unguardrailed 3.8B model attempted and sustained contradiction resolution.
+For comparison, see [Frostfire Hollow](../examples/frostfire_hollow/IECT_Example_Frostfire(Unscored).md), where an unguardrailed 3.8B model attempted and sustained contradiction resolution.
